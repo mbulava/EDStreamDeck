@@ -1,0 +1,38 @@
+{
+  "Actions": [
+    {
+      "Icon": "Images/icon",
+      "Name": "TODO_ENTER_NAME_OF_ACTION",
+      "States": [
+        {
+          "Image": "Images/pluginAction",
+          "TitleAlignment": "middle",
+          "FontSize": "12"
+        }
+      ],
+      "SupportedInMultiActions": false,
+      "Tooltip": "TODO_ENTER_TOOLTIP",
+      "UUID": "EliteDangerousStreamDeck.pluginaction",
+      "PropertyInspectorPath": "PropertyInspector/PluginActionPI.html"
+    }
+  ],
+  "Author": "Michael Bulava",
+  "Name": "Elite Dangerous Stream Deck Tools",
+  "Description": "Collection of Buttons to use while playing Elite Dangerous.",
+  "Icon": "Images/pluginIcon",
+  "URL": "https://github.com/mbulava/EDStreamDeck",
+  "Version": "1.0",
+  "CodePath": "EliteDangerousStreamDeck",
+  "Category": "Games",
+  "CategoryIcon": "Images/categoryIcon",
+  "OS": [
+    {
+      "Platform": "windows",
+      "MinimumVersion": "10"
+    }
+  ],
+  "SDKVersion": 2,
+  "Software": {
+    "MinimumVersion": "4.9"
+  }
+}
