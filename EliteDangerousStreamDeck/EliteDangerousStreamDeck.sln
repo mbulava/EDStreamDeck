@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EliteDangerous-Stream", "El
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EliteDangerousStreamDeck", "EliteDangerousStreamDeck\EliteDangerousStreamDeck.csproj", "{4635D874-69C0-4010-BE46-77EF92EB1553}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EliteDangerous-WebUITools", "EliteDangerous-WebUITools\EliteDangerous-WebUITools.csproj", "{A4AF38B0-EC92-4D41-89BE-7FF8DD3FAC4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EliteDangerous-ToolsWinUI", "EliteDangerous-ToolsWinUI\EliteDangerous-ToolsWinUI.csproj", "{EEB507A1-7629-472D-B0C0-7F9677B27100}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{4635D874-69C0-4010-BE46-77EF92EB1553}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4635D874-69C0-4010-BE46-77EF92EB1553}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4635D874-69C0-4010-BE46-77EF92EB1553}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4AF38B0-EC92-4D41-89BE-7FF8DD3FAC4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4AF38B0-EC92-4D41-89BE-7FF8DD3FAC4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4AF38B0-EC92-4D41-89BE-7FF8DD3FAC4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4AF38B0-EC92-4D41-89BE-7FF8DD3FAC4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEB507A1-7629-472D-B0C0-7F9677B27100}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEB507A1-7629-472D-B0C0-7F9677B27100}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEB507A1-7629-472D-B0C0-7F9677B27100}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEB507A1-7629-472D-B0C0-7F9677B27100}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
